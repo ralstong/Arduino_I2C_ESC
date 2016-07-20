@@ -36,6 +36,8 @@ THE SOFTWARE.
 
 //#define TWI_FREQ 100000l // Can be changed to reduce I2C frequency
 
+//worthless comment
+
 #include <Wire.h>
 #include "Arduino_I2C_ESC.h"
 
